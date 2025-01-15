@@ -1,0 +1,5 @@
+IP: 84.252.140.225;
+name_taski: https://karpovyaless.hopto.org/;
+name_kittygram: https://karpovkittygram.zapto.org/;
+login: admin;
+password: 0000;
